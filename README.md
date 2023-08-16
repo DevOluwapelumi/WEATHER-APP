@@ -1,5 +1,5 @@
 # WEATHER-APP
-I created a weather App to search for any country, state or continent...
+I created a weather App to search for any country, state, or continent...
 
 
 
